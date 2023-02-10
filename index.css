@@ -1,0 +1,47 @@
+.container {
+  background-color: coral;
+  width: 200px;
+  height: 100px;
+  margin: 0 auto 40px auto;
+}
+
+.contained {
+  background-color: rgb(255, 80, 203);
+  width: 50px;
+  height: 20px;
+  border: 2px solid brown;
+}
+
+.c1 {
+  position: relative;
+  left: 100%;
+}
+
+.c2{
+  position: relative;
+  top: 23px;
+  left: 0px;
+}
+
+.c3{
+  position: relative;
+  top: 23px;
+  left: 145px;
+}
+
+.c4{
+  position: relative;
+  top: 45px;
+  left: 200px;
+}
+
+.c5{
+  position: relative;
+  top: 35px;
+  left: -20px;
+}
+
+.c6{
+  position: relative;
+  top: 45px;
+}
